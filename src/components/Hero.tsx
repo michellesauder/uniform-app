@@ -1,3 +1,5 @@
+import { registerUniformComponent } from "@uniformdev/canvas-react";
+
 type HeroPropType = {
   titleA: string;
   titleB?: string;
@@ -31,3 +33,4 @@ export function Hero({
     </div>
   );
 }
+registerUniformComponent({ type: "hero", component: Hero });

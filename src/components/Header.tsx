@@ -6,7 +6,7 @@ export function Header() {
       <nav className="w-full border-b">
         <div className="container mx-auto flex items-center justify-between px-6 py-5 md:py-0">
           <div aria-label="Home. logo">
-            <h2 className="text-lg font-bold">Lyne</h2>
+            <h2 className="text-lg font-bold">Michelle Page</h2>
           </div>
           <div>
             <button

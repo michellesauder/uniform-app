@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "uniform:fetch-map": "uniform project-map definition list"
   },
   "dependencies": {
     "@uniformdev/canvas": "^19.130.0",
